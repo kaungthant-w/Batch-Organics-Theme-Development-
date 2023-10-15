@@ -6,7 +6,7 @@
     <h3>1. What is Batch Organics?</h3>
     <p>Batch Organics is an online store specializing in organic and natural products. We offer a wide range of organic foods, skincare products, supplements, and more, carefully curated to promote a healthy and sustainable lifestyle.</p>
 
-    <h3>2. Are all your products organic?</h3>
+    <h3 id="organicId">2. Are all your products organic?</h3>
     <p>Yes, we take pride in offering only certified organic products. We source our items from trusted suppliers and ensure they meet the highest organic standards.</p>
 
     <h3>3. How do I place an order?</h3>

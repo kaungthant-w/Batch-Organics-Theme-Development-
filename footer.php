@@ -1,7 +1,7 @@
 <footer class="footer">
         <div class="social-icon">
-            <i class='bx bxl-facebook'></i>
-            <i class='bx bxl-instagram' ></i>
+            <a href="www.facebook.com" target="_blank"><i class='bx bxl-facebook'></i></a>
+            <a href="https://www.instagram.com" target="_blank"><i class='bx bxl-instagram' ></i></a>
         </div>
         <ul class="footer-menu">
             <li class="footer-menu-item"><a href="<?php echo site_url('index.php/contact'); ?>">Contact</a></li>

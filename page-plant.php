@@ -1,6 +1,6 @@
 <?php get_header(); ?>
     <div class="container">
-        <h2 class="mb3 primary">Plant Power - Flash Frozen Smoothies + Breakfasts, Delivered to Your Door</h2>
+        <h2 class="mb3 primary" id="organicId">Plant Power - Flash Frozen Smoothies + Breakfasts, Delivered to Your Door</h2>
         <p>Introducing Plant Power, where nature meets convenience! Our flash frozen smoothies and breakfasts are meticulously crafted to bring you the freshest, most nutrient-packed ingredients without the hassle. Imagine the vibrant goodness of handpicked fruits, leafy greens, and wholesome grains, all expertly blended and flash frozen to preserve their natural flavors and nutrients.
         </p>
         <p>At Plant Power, we believe that nutritious eating should be effortless. That's why we've curated a delightful selection of flash frozen smoothies and breakfasts, each bursting with flavors and brimming with essential vitamins and minerals. From energizing smoothie blends that kickstart your day to hearty breakfast options that keep you satisfied until lunch, our offerings cater to every palate and dietary need.</p>

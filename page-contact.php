@@ -2,7 +2,7 @@
 <div class="container">
     <p>Thank you for reaching out to BATCH ORGANICS.. We value your feedback and are here to assist you. Please feel free to get in touch with us using the following contact information:</p>
 
-    <h3>Customer Support:</h3>
+    <h3 id="organicId">Customer Support:</h3>
 
     <p>For inquiries, assistance, or product-related questions, our customer support team is available to help you. You can reach us via email or phone during our business hours.</p>
 
@@ -38,3 +38,4 @@
 
     <p>Feel free to reach out to us at any time, and we will do our best to assist you promptly. Thank you for choosing BATCH ORGANICS.. We look forward to serving you!</p>
 </div>
+<?php get_footer(); ?>

@@ -45,7 +45,7 @@
             <div class="smoothiesSection-card" id="organicId">
                 <h2 class="smoothiesSection-title"><?php the_title(); ?></h2>
                 <img class="smoothiesSection-img" src="<?php echo get_the_post_thumbnail_url(get_the_ID()); ?>" alt="">
-                <a href="<?php the_permalink(); ?>" class="smoothiesSection-btn">ReadMore...</a>
+                <a href="<?php the_permalink(); ?>" class="smoothiesSection-btn">ReadMore</a>
             </div>
             <?php } 
             wp_reset_query();
